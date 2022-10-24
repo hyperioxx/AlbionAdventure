@@ -14,5 +14,5 @@ make all
 ## run 
 
 ```bash
-./bin/edathra
+./bin/albion
 ```
