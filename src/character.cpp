@@ -16,6 +16,7 @@ using namespace std;
 
 GameCharacter::GameCharacter(int health)
 {
+    name = name;
     health = health;
 }
 

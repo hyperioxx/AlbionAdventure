@@ -17,6 +17,7 @@ class Game
 public:
     int Run();
     string GetPlayerInput();
+    void PrintLogo();
 
 private:
     bool running;
