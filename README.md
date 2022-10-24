@@ -1,4 +1,4 @@
-# Edathra
+# Albion Adventure
 Command line adventure game in C++
 
 
